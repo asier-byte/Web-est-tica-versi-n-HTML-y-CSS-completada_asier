@@ -4,7 +4,7 @@ Este proyecto es una **página web estática** creada para la asignatura de **Im
 
 ---
 
-##C oncepto de la Página: "Conecta y Aprende"
+##Concepto de la Página: "Conecta y Estudia"
 
 La web actúa como un **punto de encuentro virtual** con dos funcionalidades principales, simuladas mediante la estructura estática:
 
