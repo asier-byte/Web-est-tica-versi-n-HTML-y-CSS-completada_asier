@@ -8,8 +8,8 @@ Este proyecto es una **página web estática** creada para la asignatura de **Im
 
 La web actúa como un **punto de encuentro virtual** con dos funcionalidades principales, simuladas mediante la estructura estática:
 
-1.  **Buscar Tutorías:** Permite a los alumnos explorar y encontrar a otros estudiantes o profesionales que ofrecen ayuda en materias específicas (Matemáticas, Historia, Programación, etc.).
-2.  **Ser Tutor:** Incluye un formulario (simulado en esta versión estática) para que cualquier usuario pueda postularse como tutor, indicando sus áreas de experiencia para ayudar a otros.
+1.  **Buscar Tutorías:** Permite a los alumnos explorar y encontrar a otros estudiantes o profesionales que ofrecen ayuda en materias específicas (Matemáticas, Inglés, Humanidades, etc.).
+2.  **Ser Tutor:** Incluye un formulario para que cualquier usuario pueda postularse como tutor, indicando sus áreas de experiencia para ayudar a otros.
 
 ---
 
