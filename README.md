@@ -24,7 +24,11 @@ He optado por un diseño **limpio, profesional y enfocado en la usabilidad** par
 | **Texto Principal** | Gris Oscuro/Negro | `#343333` o `#212529` | Contraste óptimo para el texto de párrafos y títulos sobre cualquier fondo. |
 | **Elementos Interactivos** | Azul Brillante/Medio | `#007BFF` | **Resaltar** botones y enlaces. |
 
+### Uso de Bootstrap y Aprendizaje
 
+Para la creación de los distintos elementos propios de la web (como la barra de navegación, tarjetas, botones), se ha utilizado la **documentación oficial de Bootstrap**.
+
+Los códigos y la vista previa de los componentes se han extraído directamente de los ejemplos proporcionados por la *URL*, adaptándolos a la estructura del sitio. De esta manera, **se ha puesto en práctica** la capacidad de utilizar y adaptar los componentes, cumpliendo así con los objetivos de la asignatura.
 
 ## Tecnologías Utilizadas
 
